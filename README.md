@@ -1,12 +1,17 @@
 LED-Controller-RGB-Arduino
 ==========================
 const int BotonPin1 = 3; // Pin 3 Botón 1
+
 const int BotonPin2 = 4; // Pin 4 Botón 2
+
 const int BotonPin3 = 5; // Pin 5 Botón 3
+
 const int BotonPin4 = 6; // Pin 6 Botón 4
 
 const int RojoPin = 9;  //Pin 9 para controlar Rojo
+
 const int VerdePin = 10;//Pin 10 para controlar Verde
+
 const int AzulPin = 11;//Pin 11 para controlar Azul
 
  // Variables booleanas para control de rebote y accionar de los botones
